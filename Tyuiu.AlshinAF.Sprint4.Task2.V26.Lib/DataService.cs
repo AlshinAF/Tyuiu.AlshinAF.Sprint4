@@ -16,7 +16,7 @@ namespace Tyuiu.AlshinAF.Sprint4.Task2.V26.Lib
                 }
 
             }
-            return sumArray; ;
+            return m; 
         }
     }
 }
