@@ -6,7 +6,7 @@ namespace Tyuiu.AlshinAF.Sprint4.Task3.V27.Lib
     {
         public int Calculate(int[,] array)
         {
-            int rows = array.GetUpperBound(0) + 1;
+            int rows = array.GetUpperBound(0);
             int columns = array.Length;
             int count = 0;
             for (int i = 0; i < rows; i++)
