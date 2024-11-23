@@ -46,5 +46,5 @@ Console.WriteLine();
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
 Console.WriteLine("***************************************************************************");
-Console.WriteLine("Количество нечётных элементов = " + ds.Calculate(mtrx));
+Console.WriteLine("Сумма нечётных элементов = " + ds.Calculate(mtrx));
 Console.ReadKey();
